@@ -29,6 +29,6 @@ const movieDB = {
         "Гаррі Поттер і таємна кімната"
     ]
 };
-
-
-
+const ads = document.querySelector(".promo__adv");
+ads.remove();
+ 
